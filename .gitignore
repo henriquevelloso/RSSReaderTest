@@ -1,0 +1,12 @@
+.DS_Store
+Build/
+Pods/
+
+BraviTest.xcodeproj/project.xcworkspace/
+BraviTest.xcodeproj/xcuserdata/
+BraviTest.xcworkspace/
+
+!Pods/Target Support Files/Pods/Pods-resources.sh
+Podfile.lock
+
+
